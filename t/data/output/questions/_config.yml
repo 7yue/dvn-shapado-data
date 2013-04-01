@@ -1,0 +1,4 @@
+markdown: rdiscount
+rdiscount:
+  extensions: [autolink]
+permalink: pretty
